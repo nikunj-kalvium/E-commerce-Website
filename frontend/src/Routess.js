@@ -4,6 +4,8 @@ import ActivationPage from "../src/pages/ActivationPage.jsx";
 import Home from "../src/pages/Home.jsx"
 import CreateProduct from "../src/pages/createProduct.jsx"
 import MyProducts from "../src/pages/myProducts.jsx";
+import Cart from "./pages/cart.jsx";
+import ProductDetails from "./pages/productDetails.jsx";
 export
 {
     LoginPage,
@@ -11,6 +13,8 @@ export
     ActivationPage,
     Home,
     CreateProduct,
-    MyProducts
+    MyProducts,
+    Cart,
+    ProductDetails
 
 }
